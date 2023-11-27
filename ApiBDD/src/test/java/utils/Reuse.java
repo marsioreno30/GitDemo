@@ -6,6 +6,8 @@ public class Reuse {
 		System.out.println("Nothing changed");
 		
 		System.out.println("Now changed from gitstuff");
+		
+		System.out.println("Changes made by occ");
 	}
 
 }
