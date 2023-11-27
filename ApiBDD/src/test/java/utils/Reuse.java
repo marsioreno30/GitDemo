@@ -15,6 +15,8 @@ public class Reuse {
 		
 		System.out.println("thing do change");
 		
+		System.out.println("Changes done in demo site ");
+		
 	}
 
 }
